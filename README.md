@@ -15,12 +15,10 @@ Built in **Visual Studio Code** using:
 * User may interact with a RGB slider that let's them choose a specific colour.
 * Application displays the current chosen colour in a display box and changes the background to the selected colour.
 * Shows the selected colour's HEX and RGB colour code/id.
-
-### Future features: 🔮
 * User can type in their initial colour (in text, RGB, and HEX).
 * User can select an initial colour using a colour wheel.
 * User can also interact with a HSL (hue, saturation, and lightness) slider.
-* Application will give an option to create a colour palette with multiple selected colours.
+* Application gives an option to create a colour palette with multiple selected colours.
 
 
 ### Contact 📱
