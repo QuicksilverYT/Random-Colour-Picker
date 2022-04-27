@@ -22,10 +22,6 @@ Built in **Visual Studio Code** using:
 * User can also interact with a HSL (hue, saturation, and lightness) slider.
 * Application will give an option to create a colour palette with multiple selected colours.
 
-### Demonstration:🪧
-
-| ![Colour_Picker](https://github.com/QuicksilverYT/Random-Colour-Picker) |
-|:---:|
 
 ### Contact 📱
 * [itzQuicksilver](https://discord.gg/TaynAW9WXt)
